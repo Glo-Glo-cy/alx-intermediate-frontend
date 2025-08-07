@@ -1,1 +1,21 @@
+// 2-nested_tag.scss
+body {
+  margin: 0px;
+  padding: 0px;
+
+  p {
+    margin: 10px;
+  }
+}
+
+sass 2-nested_tag.scss
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+body p {
+  margin: 10px;
+}
 
